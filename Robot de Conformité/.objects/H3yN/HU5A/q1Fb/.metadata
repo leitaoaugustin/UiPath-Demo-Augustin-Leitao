@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chargement_OK_01 - All Good - Excel",
+  "Type": "Screen",
+  "Id": "q1Fb9LkFVkK_bkH_sOKsRQ",
+  "Reference": "XkkE64ZYp0-jX9epODuUbA/q1Fb9LkFVkK_bkH_sOKsRQ",
+  "ParentRef": "XkkE64ZYp0-jX9epODuUbA/HU5AgRC-Xk-roO9GQ1lO7g",
+  "Created": "2025-09-11T12:08:58.655886Z",
+  "Updated": "2025-09-11T12:08:58.655886Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

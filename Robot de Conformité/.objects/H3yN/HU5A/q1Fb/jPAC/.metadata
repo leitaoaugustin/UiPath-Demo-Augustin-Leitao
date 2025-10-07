@@ -1,0 +1,13 @@
+﻿{
+  "Name": "CAMION N°(1)",
+  "Type": "Element",
+  "Id": "jPACGrJBgk2iB_lJWRR6OQ",
+  "Reference": "XkkE64ZYp0-jX9epODuUbA/jPACGrJBgk2iB_lJWRR6OQ",
+  "ParentRef": "XkkE64ZYp0-jX9epODuUbA/q1Fb9LkFVkK_bkH_sOKsRQ",
+  "Created": "2025-09-11T12:19:21.3042698Z",
+  "Updated": "2025-09-11T12:19:21.3042698Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

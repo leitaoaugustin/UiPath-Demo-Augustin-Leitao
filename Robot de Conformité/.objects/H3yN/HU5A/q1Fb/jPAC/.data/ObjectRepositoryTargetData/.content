@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="r8kyhpVp40Wk9wRCeWTmqg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="6cf64ece-f29a-4d52-8159-181d0b415787" CvTextArea="667, 252, 122, 26" CvTextArgument="8793-001" CvType="Text" DesignTimeRectangle="665, 243, 212, 46" FullSelectorArgument="&lt;uia automationid='Grid' cls='XLSpreadsheetGrid' name='Quadrillage' /&gt;&lt;uia automationid='D1' cls='XLSpreadsheetCell' name='D1' tableRow='1' /&gt;" Guid="26aae398-824e-466f-9440-320b83117dd5" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='XLMAIN' title='Chargement_OK_01 - All Good - Excel' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6cf64ece-f29a-4d52-8159-181d0b415787" CvTextArea="456, 252, 158, 26" CvTextArgument="CAMION N°" CvType="Text" DesignTimeRectangle="453, 243, 212, 46" FuzzySelectorArgument="&lt;uia automationid='Grid' cls='XLSpreadsheetGrid' name='Quadrillage' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;uia automationid='C1' cls='XLSpreadsheetCell' name='C1' role='Élément' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' matching:name='fuzzy' fuzzylevel:name='0.0' check:text='CAMION N°' /&gt;" Guid="80a241f6-305d-4a83-9e8d-70ed593e4227" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c70dea099ba4c1772020913c26ebd652.png" xmlns="">0bEigJWnErEekGt0hSNDSMg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

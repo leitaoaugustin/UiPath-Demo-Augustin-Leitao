@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UIINc4_BNUm-4FYVMFnOaQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="0403508d-fe81-4011-836e-92efa9229a2e" CvElementArea="202, 192, 1724, 28" CvType="InputBox" DesignTimeRectangle="216, 186, 1712, 41" FullSelectorArgument="&lt;uia automationid='FormulaBar' cls='XLFormulaBarEditor' name='Barre de formule' /&gt;" Guid="beda5d6d-5986-41ba-a49b-ec2d35ec7bea" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='XLMAIN' title='Chargement_OK_01 - All Good - Excel' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="228eecac615335787bfd07fe74a61768.png" xmlns="">0IqlLJAjMRUWOXEwy6nBAsA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
