@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="O0HvL1L8eU66hwCYZSgkPg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/accounts/account-apply" CVScreenId="73b6c83c-80ba-4b3b-b06a-e776c86825a6" CvElementArea="556, 536, 803, 56" CvType="InputBox" DesignTimeRectangle="560, 537, 800, 55" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='accountNickname' tag='INPUT' type='text' class='form-control uibank-input ng-untouched ng-pristine ng-valid' placeholder='Enter a nickname for your new account' aaname='Give a Nickname to Your Account' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="aa7771f8-1130-482f-aeba-92b367604e5e" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank-Apply' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="73b6c83c-80ba-4b3b-b06a-e776c86825a6" CvTextArea="559, 519, 189, 12" CvTextArgument="Give a Nickname to Your Account" CvType="Text" DesignTimeRectangle="560, 518, 187, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='uibank-label' aaname='Give a Nickname to Your Account' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Give a Nickname to Your Account' /&gt;" Guid="d4628780-d5b1-4109-a742-65b88d5ba369" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="075218b1e0f8c82aade62e3794bdabdc.png" xmlns="">0IhvfHDOMvk6jNhfWidEWZw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Welcome!",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "nAfZFyv_aEuq0h5yAQPHqw",
+  "Reference": "Fn2J2Q5kGkCjNoaDXpjQ3w/nAfZFyv_aEuq0h5yAQPHqw",
+  "ParentRef": "Fn2J2Q5kGkCjNoaDXpjQ3w/dZXU8UPNjEu3c2uzFuzKCA",
+  "Created": "2025-10-03T14:53:47.616047Z",
+  "Updated": "2025-10-03T14:53:47.616047Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

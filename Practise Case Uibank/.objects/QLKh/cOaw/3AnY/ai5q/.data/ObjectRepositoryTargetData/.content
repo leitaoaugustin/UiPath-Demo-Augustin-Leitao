@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RStD3AQt-Eeky3Hi_Xc-xQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/welcome" CVScreenId="8259c703-8c90-4a3b-b291-9de7b617e831" CvElementArea="828, 659, 265, 52" CvTextArea="850, 676, 201, 19" CvTextArgument="Lagree to the Privacy Policy" CvType="Button" DesignTimeRectangle="829, 660, 263, 50" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl aaname='I agree to the Privacy Policy →' parentid='mat-mdc-dialog-2' tag='BUTTON' type='button' class='btn center-button btn-black' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='I agree to the Privacy Policy →' /&gt;" Guid="28f73066-c2cf-4e6f-88ef-f86c659e3989" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank-Welcome' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8259c703-8c90-4a3b-b291-9de7b617e831" CvElementArea="828, 659, 265, 52" CvType="Button" DesignTimeRectangle="1053, 675, 16, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='mat-mdc-dialog-2' tag='STRONG' type='' class='' aaname='→' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='→' /&gt;" Guid="0e4f91e7-9f4d-45ea-8a43-d97da1717b77" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ec32a8f6b00bf92cd48941051b7563a5.png" xmlns="">0ETsi2Fd6bUGeE_SSYHZHpQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

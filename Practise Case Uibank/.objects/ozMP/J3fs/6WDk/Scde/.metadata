@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Email Address of Requester",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "Scde504LBEKzxx8rWSGOSA",
+  "Reference": "Fn2J2Q5kGkCjNoaDXpjQ3w/Scde504LBEKzxx8rWSGOSA",
+  "ParentRef": "Fn2J2Q5kGkCjNoaDXpjQ3w/6WDkKbGZRUKEHP_MKz4K5A",
+  "Created": "2025-10-06T11:50:36.2167377Z",
+  "Updated": "2025-10-06T11:51:39.3963155Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lg5GoGbAoEClAoGgc7hk9Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/accounts" CVScreenId="3be7d1e7-d79b-4eee-b51b-374049737852" CvType="AnyWordGroup" DesignTimeRectangle="432, 296, 361, 58" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H3' /&gt;" Guid="8b6ea42c-193f-49e6-b336-8ca975628061" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank - Accounts' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="cf6df0e59b9e8f875bfefd6a19727ed5.png" xmlns="">0jDIhw9X7vUO53oRCAqAxcA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

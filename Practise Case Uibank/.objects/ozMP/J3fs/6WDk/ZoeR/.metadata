@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Current Yearly Income",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "ZoeR_8Ko20ucxQi_7bW_Yw",
+  "Reference": "Fn2J2Q5kGkCjNoaDXpjQ3w/ZoeR_8Ko20ucxQi_7bW_Yw",
+  "ParentRef": "Fn2J2Q5kGkCjNoaDXpjQ3w/6WDkKbGZRUKEHP_MKz4K5A",
+  "Created": "2025-10-06T11:50:36.4405558Z",
+  "Updated": "2025-10-06T11:51:30.8651604Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

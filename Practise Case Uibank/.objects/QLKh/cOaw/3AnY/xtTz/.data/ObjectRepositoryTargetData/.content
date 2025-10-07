@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ugq8Z704TkKzgCUJfFZlZA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/accounts/account-apply" CVScreenId="88f69bbc-d326-47b9-9b63-61d59e4d2f3e" CvElementArea="559, 607, 801, 55" CvType="InputBox" DesignTimeRectangle="560, 608, 800, 54" ElementType="DropDown" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='typeOfAccount' tag='SELECT' type='text' class='form-control uibank-input ng-touched ng-dirty ng-valid' aaname='Type of Account' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="357360e6-716d-45d8-969c-749f2bb0d99c" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank-Apply' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="88f69bbc-d326-47b9-9b63-61d59e4d2f3e" CvTextArea="559, 591, 93, 14" CvTextArgument="Type of Account" CvType="Text" DesignTimeRectangle="560, 589, 91, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Type of Account' tag='LABEL' type='' class='uibank-label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Type of Account' /&gt;" Guid="078f41c3-05b4-4c75-b18c-9d11585e47ef" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="12662e9c96679d47b1940fad713ec00f.png" xmlns="">0j5YqK41bGEyQ_0ITngxGDw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

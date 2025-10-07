@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge: UiBank - Accounts",
+  "Type": "Screen",
+  "Id": "dZXU8UPNjEu3c2uzFuzKCA",
+  "Reference": "Fn2J2Q5kGkCjNoaDXpjQ3w/dZXU8UPNjEu3c2uzFuzKCA",
+  "ParentRef": "Fn2J2Q5kGkCjNoaDXpjQ3w/APUm9F_EkkGPVpKYNLYPxg",
+  "Created": "2025-10-03T14:53:47.5786625Z",
+  "Updated": "2025-10-03T14:53:47.5786625Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

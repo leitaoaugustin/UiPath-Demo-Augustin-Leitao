@@ -1,0 +1,13 @@
+﻿{
+  "Name": "You've been approved fo…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "eBDpthhfbEmJXxGnDqo9FQ",
+  "Reference": "Fn2J2Q5kGkCjNoaDXpjQ3w/eBDpthhfbEmJXxGnDqo9FQ",
+  "ParentRef": "Fn2J2Q5kGkCjNoaDXpjQ3w/zrDiIBslv065aa2Y_Xxmgw",
+  "Created": "2025-10-06T12:18:55.3661523Z",
+  "Updated": "2025-10-06T12:18:55.3661523Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

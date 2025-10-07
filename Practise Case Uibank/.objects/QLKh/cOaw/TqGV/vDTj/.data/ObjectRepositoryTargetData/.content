@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5srShYWFo0miss2uCxWHWg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans" CVScreenId="312cae4e-1227-4114-8e91-18dba39095d5" CvElementArea="743, 581, 187, 53" CvTextArea="767, 599, 138, 19" CvTextArgument="Apply For A Loan" CvType="Button" DesignTimeRectangle="746, 583, 182, 50" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='applyButton' tag='BUTTON' /&gt;" Guid="ba922863-ec8b-4428-be0a-f949baaf810e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank-Loan Home' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d1dcb47e31eebacd5f99c6af626977bb.png" xmlns="">08CJJvG5prEydLULrfx5Y-Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

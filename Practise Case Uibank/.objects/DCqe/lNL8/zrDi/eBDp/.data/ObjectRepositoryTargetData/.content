@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-5GCfdPnHUe0ZJdFDnVV0Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/result/68e3b35de1f52a004abcc513/9/true" CVScreenId="e76bf134-6d8b-4629-9710-486dfae4464e" CvType="AnyWordGroup" DesignTimeRectangle="375, 410, 1186, 48" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl idx='2' tag='H1' /&gt;" Guid="81a815de-4bd6-487b-9045-6bc028156f61" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank-Loan result' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e76bf134-6d8b-4629-9710-486dfae4464e" CvTextArea="848, 467, 238, 20" CvTextArgument="With a fantastic rate of:" CvType="Text" DesignTimeRectangle="375, 466, 1186, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H5' type='' class='text-white' aaname=' With a fantastic rate of: ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='With a fantastic rate of:' /&gt;" Guid="ba9e5b6c-2ae7-4c95-a6d4-095e387c6f37" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="ece06c075639738a2031d8ba819468e9.png" xmlns="">0QKyHD4nu10-FZ1t5gNhgBQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

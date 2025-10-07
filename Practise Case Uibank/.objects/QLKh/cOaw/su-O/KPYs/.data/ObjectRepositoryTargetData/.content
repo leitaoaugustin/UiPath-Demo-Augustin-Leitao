@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QTE182LWp0eJhe8l2gofCA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/accounts/account-create-results/10142457/Test" CVScreenId="1314c9c3-06a0-45c6-b150-afc2421c6c39" CvTextArea="757, 395, 420, 55" CvTextArgument="Congratulations!" CvType="Text" DesignTimeRectangle="359, 391, 1218, 58" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H1' /&gt;" Guid="29410b4f-f8b6-49ec-b73c-d376bc67250d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank-Creation Result' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0a039ce53d03c04c8a6f7a96873dcedb.png" xmlns="">0yKwxe02mykCmyd8e-F_7nA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Highlight</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

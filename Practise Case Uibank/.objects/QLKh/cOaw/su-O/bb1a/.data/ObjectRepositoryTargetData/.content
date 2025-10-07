@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Q1D-101wmk2m2TG2nbVxBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/accounts/account-create-results/10142457/Test" CVScreenId="1ee4cadc-5780-4ffa-b738-1583a15d8c5d" CvType="AnyWordGroup" DesignTimeRectangle="359, 391, 1218, 58" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H1' /&gt;" Guid="3645a71c-70e0-4beb-9728-111304cd54d6" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank-Creation Result' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0a039ce53d03c04c8a6f7a96873dcedb.png" xmlns="">0qfgDcVLw_0GuW6D1ZMQXug</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

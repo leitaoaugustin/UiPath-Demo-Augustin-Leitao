@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Edge: UiBank - Accounts app",
+  "Type": "App",
+  "Id": "t_X-KB7j4EuyZuBsk9h_Ng",
+  "Reference": "Fn2J2Q5kGkCjNoaDXpjQ3w/t_X-KB7j4EuyZuBsk9h_Ng",
+  "Created": "2025-10-03T14:53:47.5576282Z",
+  "Updated": "2025-10-03T14:53:47.5576282Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

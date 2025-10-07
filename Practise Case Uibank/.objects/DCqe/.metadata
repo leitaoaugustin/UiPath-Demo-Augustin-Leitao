@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Edge: UiBank-Loan result app",
+  "Type": "App",
+  "Id": "DCqe5BbfiUSoFv0mlVFx8A",
+  "Reference": "Fn2J2Q5kGkCjNoaDXpjQ3w/DCqe5BbfiUSoFv0mlVFx8A",
+  "Created": "2025-10-06T12:18:55.2675167Z",
+  "Updated": "2025-10-06T12:18:55.2675167Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

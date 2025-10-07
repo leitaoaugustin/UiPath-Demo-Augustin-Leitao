@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XJqGYD3h00qZC2ROiy1pBA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/welcome" CVScreenId="543dd0d7-32ab-4b9b-b48f-6b22d92dc62f" CvTextArea="448, 796, 128, 21" CvTextArgument="Apply For Loan" CvType="Text" DesignTimeRectangle="432, 784, 181, 44" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl aaname='Apply For Loan →' tag='BUTTON' type='submit' class='btn apply-button' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Apply For Loan →' /&gt;" Guid="ae728928-41dd-4615-8452-77440c668248" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank-Welcome' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="543dd0d7-32ab-4b9b-b48f-6b22d92dc62f" CvElementArea="577, 796, 22, 24" CvType="Icon" DesignTimeRectangle="579, 793, 17, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='→' type='' tag='SPAN' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='→' /&gt;" Guid="77170c6c-613d-429f-9663-265a1707c650" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABUAAAAcCAYAAACOGPReAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABiSURBVEhLY/hPA8CALkANMGoo9cGoodQHI8LQt/+jal/8v4cuTJmh///fW//wP8PUt+jClBkKdm36fQyDkQz98r+n9v5/BpAicjBSUNDapaQDGoQpjWIfFxg1lPpg1FDqAwCt//+kASiIGgAAAABJRU5ErkJggg==" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f26bce76273c799929cc8e7505d0506a.png" xmlns="">0TTeNWaCJeEyN78JiwiEYIg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

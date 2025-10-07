@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9O5Np9tjfkyfZS6khuN9ZA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/accounts" CVScreenId="b8dde855-dbdc-4618-a5d1-2f023b63e9aa" CvElementArea="1397, 158, 22, 24" CvTextArea="1319, 163, 80, 16" CvTextArgument="Products" CvType="ArrowButton" DesignTimeRectangle="1312, 150, 109, 43" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='dropdownMenuLink' tag='A' /&gt;" Guid="d6cac06e-99ef-45dc-97b5-d80da1dea16e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank - Accounts' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="09807f4b8536c03820f0e0ac497a916f.png" xmlns="">0EikOOOGYk0y77pKuu9gEsA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
